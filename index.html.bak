@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <title>MangAnime</title> 
+	 <meta charset="uft-8"/>
+	 <style>
+         body {
+         background-image:url('https://images7.alphacoders.com/425/thumb-1920-425621.jpg');
+         background-repeat: no-repeat;
+         background-attachment: fixed;
+         background-position: center;
+		 background-color: gray;
+		 }
+		 H1 {
+        text-shadow: 3px 2px #000;
+         }
+		 h1 {
+         text-shadow: 3px 2px #000;
+         }
+		 h1 {
+         background: linear-gradient(to right, red, red);
+	     -webkit-background-clip: text;
+	     -webkit-text-fill-color: transparent;
+         }
+		 h2 {
+         text-shadow: 3px 2px #000;
+         }
+		 h2 {
+         background: linear-gradient(to right, orange, orange);
+	     -webkit-background-clip: text;
+	     -webkit-text-fill-color: transparent;
+         }
+		 @import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@700&display=swap');
+		 h2 {
+		 font-family:'Rowdies', cursive;
+		 }
+		 @import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@700&display=swap');
+		 td {
+		 font-family:'Rowdies', cursive;
+		 }
+		 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Rowdies:wght@700&display=swap');
+		 h1 {
+		 font-family: 'Lobster', cursive;
+         font-family: 'Rowdies', cursive;
+		 }
+     </style>
+  </head>
+  <body>
+    <center>
+    <h1 style="color:red;">MangAnime</h1>
+	</center>
+	<h2 style="color:orange;">Streaming D'Animés en VOSTFR</h2>
+	<table>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/fr/2/23/Demon_Slayer_Logo_international.png"style="width:200px;height:80px;"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/fr/2/2a/Dr._Stone_Logo.png"style="width:200px;height:80px;"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/The_Quintessential_Quintuplets_Logo.png/1200px-The_Quintessential_Quintuplets_Logo.png"style="width:200px;height:80px;"></td>
+  </tr>
+  <tr>
+    <td><a href="demon slayer.html"><img src="https://technplay.com/wp-content/uploads/2021/10/demon-slayer-758x530.png"style="width:200px;height:215px;"></a></td>
+    <td><a href="dr.html"><img src="https://fr.web.img5.acsta.net/pictures/19/08/07/10/33/5476043.jpg"style="width:200px;height:215px;"></a></td>
+    <td><a href="quintuplets.html"><img src="https://fr.web.img4.acsta.net/pictures/20/12/30/17/22/4060705.jpg"style="width:200px;height:215px;"></a></td>
+  </tr>
+  <tr>
+    <td><mark>1 Saison, 26 Episodes</mark></td>
+    <td><mark>1 Saison, 24 Episodes</mark></td>
+    <td><mark>2 Saisons, 24 Episodes</mark></td>
+  </tr>
+    </table>
+  <h2 style="color:orange;">Streaming D'Animés en VF</h2>
+  <table>
+  <tr>
+    <td><img src="https://derf9v1xhwwx1.cloudfront.net/image/upload/c_fill,q_60/oth/FunimationStoreFront/1739810/Latvian/1739810_Latvian_ShowLogo_8db259f4-88d8-ea11-82a8-dd291e252010.png"style="width:200px;height:80px;"></td>
+    <td><img src="https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABewcxjtSGHCdu8ilTh2p50zZ5w92L_X7X818KIfWjmDrudAwibI_4kkIh1NaY7jTGzYDhxinMRJL8rJMtppWiyvXxMq3JFWbrB1_.png?r=ece"style="width:200px;height:80px;"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/fr/0/07/Shingeki_no_Kyojin_%28anime%29_Logo.png"style="width:200px;height:80px;"></td>
+    <td><img src="https://lageekettesportive.com/wp-content/uploads/2019/03/boku_no_hero_academia-1.png"style="width:200px;height:80px;"></td>
+	<td><img src="https://logos-world.net/wp-content/uploads/2021/08/Haikyuu-Symbol.png"style="width:200px;height:80px;"></td>
+  </tr>
+  <tr>
+  <td><a href="re zero vf.html"><img src="https://fr.web.img5.acsta.net/pictures/20/04/17/15/18/4142036.jpg"style="width:200px;height:215px;"></a></td>
+    <td><a href="kuroko no basket vf.html"><img src="https://fr.web.img6.acsta.net/c_310_420/pictures/19/07/12/16/56/4649276.jpg"style="width:200px;height:215px;"></a></td>
+    <td><a href="snk vf.html"><img src="https://i1.wp.com/www.filmspourenfants.net/wp-content/uploads/2018/01/lattaque-des-titans-a.jpg?fit=555%2C743&ssl=1"style="width:200px;height:215px;"></a></td>
+    <td><a href="mha vf.html"><img src="https://image.animedigitalnetwork.fr/license/mha/tv/web/affiche_370x0.jpg"style="width:200px;height:215px;"></a></td>
+	<td><a href="haikyu vf.html"><img src="https://media.senscritique.com/media/000011430202/source_big/Haikyu.jpg"style="width:200px;height:215px;"></a></td>
+  </tr>
+  <tr>
+    <td><mark>1 Saison, 25 Episodes</mark></td>
+    <td><mark>3 Saisons, 75 Episodes</mark></td>
+    <td><mark>2 Saison, 36 Episodes</mark></td>
+    <td><mark>2 Saisons, 38 Episodes</mark></td>
+	<td><mark>1 Saisons, 25 Episodes</mark></td>
+  </tr>
+    </table>
+	<h2 style="color:orange;">Streaming De Films en VOSTFR</h2>
+	<table>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/My_Hero_Academia_-_Heroes_Rising_logo.png"style="width:200px;height:80px;"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Weathering_with_You_Movie_%28Wordmark%29Logo.png"style="width:200px;height:80px;"></td>
+    <td><img src="https://www.madmanfilms.com.au/wp-content/uploads/2019/09/one-piece-stampede-title.png"style="width:200px;height:80px;"></td>
+  </tr>
+  <tr>
+    <td><a href="film mha2.html"><img src="https://fr.web.img2.acsta.net/pictures/20/08/05/17/19/0429307.jpg"style="width:200px;height:215px;"></a></td>
+    <td><a href="les enfants du temps.html"><img src="https://fr.web.img4.acsta.net/pictures/19/12/03/12/19/1546306.jpg"style="width:200px;height:215px;"></a></td>
+    <td><a href="one piece film.html"><img src="https://www.glenat.com/sites/default/files/images/livres/couv/9782344046739-001-T.jpeg"style="width:200px;height:215px;"></a></td>
+  </tr>
+  <tr>
+    <td><mark>Film, 100 min</mark></td>
+    <td><mark>Film, 114 min</mark></td>
+    <td><mark>Film, 101 min</mark></td>
+  </tr>
+  </table>
+  <h2 style="color:orange;">Streaming De Films en VF</h2>
+  <table>
+  <tr>
+    <td><img src="https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABZlXGX3m77C39_F5nIcoqLC4Yu6W9_BOvYjGX7Wi1ZdNJzWkIv194GEH8u2UdGOtvrKeDNl538xHmrk4ks_CdIxSuyngo2IyWheb.png?r=deb"style="width:200px;height:80px;"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/fr/0/0f/La_Travers%C3%A9e_du_temps_Logo.png"style="width:200px;height:80px;"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4e/Dragonballsuper_broly_logo.svg/1200px-Dragonballsuper_broly_logo.svg.png"style="width:200px;height:80px;"></td>
+  </tr>
+  <tr>
+    <td><a href="film mha.html"><img src="https://image.animedigitalnetwork.fr/license/mha/film/web/affiche_600x856.jpg"style="width:200px;height:215px;"></a></td>
+    <td><a href="traverse.html"><img src="https://www.centrepompidou-metz.fr/sites/default/files/imagecache/img-zoom/web-ville-2006-tokikake-film-partners.jpg"style="width:200px;height:215px;"></a></td>
+    <td><a href="dbs broly.html"><img src="https://bleachmx.fr/wp-content/uploads/Dragon-Ball-Super-Broly-Spot.jpg"style="width:200px;height:215px;"></a></td>
+  </tr>
+  <tr>
+    <td><mark>Film, 96 min</mark></td>
+    <td><mark>Film, 98 min</mark></td>
+    <td><mark>Film, 100 min</mark></td>
+  </tr>
+    </table>
+  </body>
+</html>
